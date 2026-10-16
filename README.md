@@ -45,4 +45,43 @@
 **Tools & Deployment**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+### 📂 Featured Projects
+
+#### 🔐 Auth Role Dashboard
+[Live Demo](https://auth-role-dashboard.vercel.app) · [Code](https://github.com/kapil-2025/auth-role-dashboard)
+
+Full-stack MERN app with secure login and role-based access.
+- Register and login with **JWT authentication**
+- **Role-based access** with separate permissions for user and admin
+- REST API built with **Express + MongoDB**, deployed on **Render**
+- **React + Tailwind** frontend, deployed on **Vercel**
+
+#### 💬 Realtime Chat App 🚧
+[Code](https://github.com/kapil-2025/realtime-chat-app)
+
+WhatsApp-style chat app, currently in development.
+- Email + password signup verified with **Gmail OTP**
+- **Forgot password** flow with OTP
+- **Real-time messaging** with Socket.IO
+- Coming next: image and video sharing, audio and video calls
+
+#### 📚 StudyMate AI 🚧
+[Code](https://github.com/kapil-2025/studymate-ai)
+
+AI-powered study assistant built with the **Google Gemini API**, currently in development.
+
+---
+
+### 📖 Currently Learning
+- Advanced UI design with Tailwind CSS
+- Core CS: OOP, Operating Systems, DBMS, Computer Networks
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
