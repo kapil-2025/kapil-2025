@@ -13,7 +13,7 @@
 - 💻 I build full-stack web apps with **MongoDB, Express, React and Node.js**
 - 💬 Built and deployed a **real-time chat app** with Socket.IO ([Live](https://realtime-chat-app-wheat-beta.vercel.app))
 - 🤖 Building an AI study assistant with the **Gemini API**
-- 🧠 Solving **DSA in Java**
+- 🧠 Solving **DSA in Java**: 41+ LeetCode problems so far ([solutions](https://github.com/kapil-2025/leetcode-solutions))
 - 🎯 Open to **Full Stack, Backend and SDE internships** for Summer 2027
 
 ---
@@ -89,6 +89,7 @@ AI study assistant that turns messy notes into exam-ready summaries using the **
 ### 🔨 Currently Working On
 - Adding online status and a typing indicator to the chat app
 - Building StudyMate AI (summaries, flashcards and quizzes from notes)
+- Rebuilding my stationery business's store ([Kapil Store](https://github.com/kapil-2025/kapil-store)) from scratch with Express + TypeScript + MongoDB
 - Daily DSA practice in Java
 - Revising core CS: OOP, Operating Systems, DBMS, Computer Networks
 
